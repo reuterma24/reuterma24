@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything related to computer science and technology.
   
   
-- 🐍🟣🟡 RIP to the late grate Kobe Bean Bryant 
+- 🐍🟣🟡 RIP to the late greate Kobe Bean Bryant 
 
 <!---
 reuterma24/reuterma24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
